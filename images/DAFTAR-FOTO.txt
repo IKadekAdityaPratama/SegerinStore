@@ -1,0 +1,3 @@
+Taruh foto produk (persegi, sekitar 600x600 px, di bawah 100 KB) di folder ini dengan nama persis:
+kaos.jpg, celana.jpg, sneakers.jpg, headphone.jpg, kamera.jpg, serum.jpg, botol.jpg, lampu.jpg
+Nama file peka huruf besar-kecil. Jika foto belum ada, aplikasi menampilkan emoji sebagai cadangan.
