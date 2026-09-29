@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --color-brand: #00a878;
+  --color-brand-dark: #007a59;
+  --color-brand-soft: #e3f6ef;
+  --color-sun: #ffc93c;
+  --color-ink: #1f2933;
+}
+body { @apply bg-slate-100 text-ink font-sans; }
+:focus-visible { outline: 2px solid var(--color-brand); outline-offset: 2px; }
