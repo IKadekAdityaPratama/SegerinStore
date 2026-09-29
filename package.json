@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build && node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\"",
     "preview": "vite preview",
-    "deploy": "cross-env VITE_BASE=/NAMA-REPO/ npm run build && gh-pages -d dist"
+    "deploy": "cross-env VITE_BASE=/SegerinStore/ npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
